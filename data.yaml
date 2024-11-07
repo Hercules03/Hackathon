@@ -1,4 +1,0 @@
-train: /content/drive/MyDrive/yolo_data/images/train/
-val: /content/drive/MyDrive/yolo_data/images/val/
-nc: 1 
-names: ['cargo'] 
